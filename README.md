@@ -1,3 +1,5 @@
+Демо-версия на сайте https://country-search-1.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
